@@ -29,7 +29,7 @@ if "history" not in st.session_state:
     st.session_state.history = []
 
 # Streamlit App Title
-st.title("GenZ Chatbot 🤙")
+st.title("GenZ Chatbot ")
 st.write("Heyyy bestie! 👋 What's up?")
 
 # Display chat history
